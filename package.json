@@ -1,0 +1,24 @@
+{
+  "name": "perso",
+  "version": "1.0.0",
+  "description": "personal pages, resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedhayibor/mohamedhayibor.github.io.git"
+  },
+  "keywords": [
+    "resume",
+    "personal",
+    "pages"
+  ],
+  "author": "Mohamed Hayibor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedhayibor/mohamedhayibor.github.io/issues"
+  },
+  "homepage": "https://github.com/mohamedhayibor/mohamedhayibor.github.io#readme"
+}
